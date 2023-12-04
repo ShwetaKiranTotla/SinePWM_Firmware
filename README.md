@@ -19,6 +19,9 @@ This repository has C code to generate sine PWM signals with frequency and ampli
 Sincere thanks to Prof. Abhijit for helping throughout the project, explaining things I should've already known, and spending as much time on the project as I did. Sir's debugging and problem solving skills helped me understand and tackling them by the cause. He made me believe in the famous quote "Never Ask for a Lighter Rain but a Stronger Umbrella".  
 Thanks to Karthik Sir for helping in testing these signals on hardware.
 
+## References
+PWM Module 0 generation https://hum60hz.wordpress.com/2015/11/08/generating-pwm-signals-tiva-c-launchpad/
+
 <br>
 
 [Presentation](https://docs.google.com/presentation/d/1psUZHTPc9xYIChw90BaCJeNyP-WQW6ekRRW6uFMbo3s/edit?usp=sharing, "Slides")
